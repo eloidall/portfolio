@@ -15,4 +15,4 @@ This is a collection of some of the projects I’ve developed, both independentl
 ## Online Courses
 | Course | Description | Languages & Tools | Dates |
 |--------|-------------|-------------------|-------|
-|[IBM Data Analyst Professional Certificate](https://github.com/eloidall/Coursera/tree/main/IBM_Data_Analyst_Certificate)|Online course to master the latest skills of analytics, including Python, SQL, Excel, data analysis, machine learning, and build a portfolio of real-world projects to showcase your expertise.|Python, Excel, SQL, IBM Cognos, Plotly, Mathplotlib, Numpy, Pandas, Scikit-Learn, |July 2024 - August 2024|
+|[IBM Data Analyst Professional Certificate](https://github.com/eloidall/Coursera/tree/main/IBM_Data_Analyst_Certificate) ☑️|Online course to master the latest skills of analytics, including Python, SQL, Excel, data analysis, machine learning, and build a portfolio of real-world projects to showcase your expertise.|Python, Excel, SQL, IBM Cognos, Plotly, Mathplotlib, Numpy, Pandas, Scikit-Learn, |July 2024 - August 2024|
